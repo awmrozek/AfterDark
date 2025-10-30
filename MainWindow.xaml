@@ -5,10 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AfterDarkness"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="LightModeButton" Content="Set Light Mode" HorizontalAlignment="Left" Height="70" Margin="41,35,0,0" VerticalAlignment="Top" Width="197" Click="Button_Click"/>
-        <Button x:Name="DarkModeButton" Content="Set Dark Mode" HorizontalAlignment="Left" Height="80" Margin="41,137,0,0" VerticalAlignment="Top" Width="197" Click="DarkModeButton_Click"/>
+        Title="MainWindow" Height="202" Width="570">
+    <Grid Margin="0,0,0,9">
+        <Button x:Name="LightModeButton" Content="Set Light Mode" HorizontalAlignment="Left" Height="35" Margin="21,106,0,0" VerticalAlignment="Top" Width="197" Click="Button_Click"/>
+        <Button x:Name="DarkModeButton" Content="Set Dark Mode" HorizontalAlignment="Left" Height="35" Margin="223,106,0,0" VerticalAlignment="Top" Width="197" Click="DarkModeButton_Click"/>
+        <Label x:Name="LabelHelp" Content="After Dark will help you to adjust your Windows theme (light/dark) depending on time of the day." HorizontalAlignment="Left" Margin="21,33,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
