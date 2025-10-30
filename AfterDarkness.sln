@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.36602.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterDarkness", "AfterDarkness.csproj", "{26CB8698-6237-4148-AFFD-8B9D8FD091C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CB8698-6237-4148-AFFD-8B9D8FD091C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CB8698-6237-4148-AFFD-8B9D8FD091C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CB8698-6237-4148-AFFD-8B9D8FD091C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CB8698-6237-4148-AFFD-8B9D8FD091C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F557168C-940F-4138-91F1-864EF1F5DF12}
+	EndGlobalSection
+EndGlobal
